@@ -22,7 +22,7 @@ body{
 }
 
 .qr-container{
-    width: 23vw;
+    width: 24vw;
     background-color: var(--white);
     padding: var(--spacing-16);
     border-radius: 1.25em;
