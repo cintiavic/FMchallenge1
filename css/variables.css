@@ -1,0 +1,21 @@
+:root {
+    font-size:15px;
+
+    /* PALETTE */
+    --white: hsl(0, 0%, 100%);
+    --black-25: hsla(0, 0%, 0%, 0.24);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-navy: hsl(218, 44%, 22%);
+
+    /* FONTS */
+    --base-font:"Outfit", sans-serif;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+
+    /* SPACINGS */
+    --spacing-16: 1.06rem;
+    --spacing-24: 1.6rem;
+   
+
+}  

@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+
+html {
+    font-family: var(--base-font);
+    font-size:93.75%;
+    color:var(--grayish-blue);
+}
+
+a {
+    text-decoration: none;
+    font-family:inherit;
+    color:inherit;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+p {
+    font-size:1 em;
+}
+
+img {
+    width:100% /*el 100% del contenedor padre para evitar el overflow*/
+}
