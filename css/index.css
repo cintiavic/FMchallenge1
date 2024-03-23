@@ -39,7 +39,7 @@ body{
 }
 
 .qr-text{
-     margin:var(--spacing-24);
+     margin:var(--spacing-16);
 }
 
 .qr-title{
